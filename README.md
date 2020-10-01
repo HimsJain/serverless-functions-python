@@ -17,7 +17,7 @@
 
 > We have similar applications available for [Swift](https://github.com/IBM/serverless-functions-swift) and [Node.js](https://github.com/IBM/serverless-functions-nodejs).
 
-This repository has code to create a serverless Backend for Frontend (BFF) using Python and IBM Cloud Functions, backed by a NoSQL database. Cloud Functions supplies basic Create, Read, Update, and Delete operations in a serverless environment. These functions can be mapped to an API gateway, then integrated into an iOS app for example, to enable persistence of data into a Cloudant NoSQL Database. 
+This repository has code to create a serverless Backend for Front-End (BFF) using Python and IBM Cloud Functions, backed by a NoSQL database. Cloud Functions supplies basic Create, Read, Update, and Delete operations in a serverless environment. These functions can be mapped to an API gateway, then integrated into an iOS app for example, to enable persistence of data into a Cloudant NoSQL Database. 
 
 Cloudant NoSQL DB provides access to a fully managed NoSQL JSON data layer that's always-on. This service is compatible with CouchDB, and accessible through a simple to use HTTP interface for mobile and web application models.
 
